@@ -20,10 +20,10 @@
 ## 数据结构与算法
 *还没确定用哪本书*
 
-- 数据结构中的栈有什么用 [B站视频](https://www.bilibili.com/video/BV1hp4y1x7u9/) [西瓜视频](https://www.ixigua.com/i6917524794283917837/)
-- Huffman编码 [B站视频](https://www.bilibili.com/video/BV18V411v7px/) [西瓜视频](https://www.ixigua.com/i6934585368893194755/)
-- 二叉树的动画介绍（AVL）[B站视频](https://www.bilibili.com/video/BV1L54y147zi/) [西瓜视频](https://www.ixigua.com/i6915269175946510859/)
-- 最短路径查找——Dijkstra算法 [B站视频](https://www.bilibili.com/video/BV1zz4y1m7Nq/) [西瓜视频](https://www.ixigua.com/i6923011690321838599/)
+- 数据结构中的栈有什么用 [B站视频](https://www.bilibili.com/video/BV1hp4y1x7u9/) [西瓜视频](https://www.ixigua.com/i6917524794283917837/) *GeeksforGeeks*
+- Huffman编码 [B站视频](https://www.bilibili.com/video/BV18V411v7px/) [西瓜视频](https://www.ixigua.com/i6934585368893194755/) *《算法导论》中文版*
+- 二叉树的动画介绍（AVL）[B站视频](https://www.bilibili.com/video/BV1L54y147zi/) [西瓜视频](https://www.ixigua.com/i6915269175946510859/) *GeeksforGeeks*
+- 最短路径查找——Dijkstra算法 [B站视频](https://www.bilibili.com/video/BV1zz4y1m7Nq/) [西瓜视频](https://www.ixigua.com/i6923011690321838599/) *GeeksforGeeks*
 
 
 ## 其他
