@@ -24,6 +24,7 @@
 - Huffman编码 [B站视频](https://www.bilibili.com/video/BV18V411v7px/) [西瓜视频](https://www.ixigua.com/i6934585368893194755/) *《算法导论》中文版*
 - 二叉树的动画介绍（AVL）[B站视频](https://www.bilibili.com/video/BV1L54y147zi/) [西瓜视频](https://www.ixigua.com/i6915269175946510859/) *GeeksforGeeks*
 - 最短路径查找——Dijkstra算法 [B站视频](https://www.bilibili.com/video/BV1zz4y1m7Nq/) [西瓜视频](https://www.ixigua.com/i6923011690321838599/) *GeeksforGeeks*
+- 散列表(哈希表) [B站视频](https://www.bilibili.com/video/BV1if4y1x7QB/) [西瓜视频](https://www.ixigua.com/i6943906705759535619/) *《数据结构与算法分析》*
 
 
 ## 其他
