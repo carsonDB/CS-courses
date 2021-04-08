@@ -29,3 +29,4 @@
 
 ## 其他
 - 汉诺塔小游戏和递归思想 [B站视频](https://www.bilibili.com/video/BV1Zh411y7XB/) [西瓜视频](https://www.ixigua.com/i6920165656168301059/)
+- C程序在内存中的栈 [B站视频](https://www.bilibili.com/video/BV1By4y1x7Yh/) [西瓜视频](https://www.bilibili.com/video/BV1By4y1x7Yh/)
