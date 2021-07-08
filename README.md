@@ -14,12 +14,14 @@
 ### 存储管理
 - 内存管理——地址空间 [B站视频](https://www.bilibili.com/video/BV1oi4y1T7RP/) [西瓜视频](https://www.ixigua.com/i6936087163012383246/)
 - 内存管理——虚拟内存 [B站视频](https://www.bilibili.com/video/BV18v411a7Vk/) [西瓜视频](https://www.ixigua.com/i6936087163012383246/)
+- 动态分配——堆 [B站视频](https://www.bilibili.com/video/BV19B4y1F7Tj/) [西瓜视频](https://www.ixigua.com/i6963834775740088836/) * 《深入理解计算机系统》 *
 
 ### 输入输出I/O
 - 输入输出——硬件I/O [B站视频](https://www.bilibili.com/video/BV1iA411L7j2/) [西瓜视频](https://www.ixigua.com/i6952015534254719525/)
 
 ## 数据结构与算法
 - 数据结构中的栈有什么用 [B站视频](https://www.bilibili.com/video/BV1hp4y1x7u9/) [西瓜视频](https://www.ixigua.com/i6917524794283917837/) *GeeksforGeeks*
+- 优先队列——堆 [B站视频](https://www.bilibili.com/video/BV1mB4y1c7we/) [西瓜视频](https://www.ixigua.com/i6959104707868492302/)
 - Huffman编码 [B站视频](https://www.bilibili.com/video/BV18V411v7px/) [西瓜视频](https://www.ixigua.com/i6934585368893194755/) *《算法导论》中文版*
 - 二叉树的动画介绍（AVL）[B站视频](https://www.bilibili.com/video/BV1L54y147zi/) [西瓜视频](https://www.ixigua.com/i6915269175946510859/) *GeeksforGeeks*
 - 最短路径查找——Dijkstra算法 [B站视频](https://www.bilibili.com/video/BV1zz4y1m7Nq/) [西瓜视频](https://www.ixigua.com/i6923011690321838599/) *GeeksforGeeks*
